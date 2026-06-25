@@ -3,7 +3,7 @@
 
 # Program: AICTE Oasis Infobyte – Security Analyst Internship
 
-### Objective
+## Objective
 To research and document common network security threats, explaining how each attack works, its real-world impact, and the mitigation strategies used to defend against them.
 
 ## Threats Covered
@@ -13,7 +13,7 @@ To research and document common network security threats, explaining how each at
 - DNS Spoofing / Cache Poisoning
 - Packet Sniffing
 
-### References
+## References
 OWASP – https://owasp.org
 CISA – https://www.cisa.gov
 NIST – https://csrc.nist.gov
