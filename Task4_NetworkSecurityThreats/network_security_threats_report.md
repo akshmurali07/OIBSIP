@@ -1,7 +1,7 @@
 # Title: Research Report on Common Network Security Threats
 # Prepared by: Akshara Murali
 # Internship: AICTE Oasis Infobyte - Security Analyst Internship
-# Task: Task 4: Research Report on Common Network Security Threats
+# Task 4: Research Report on Common Network Security Threats
 # Date: June 2026
 
 ### 1.Introduction
