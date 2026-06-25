@@ -14,7 +14,7 @@ To research and document common network security threats, explaining how each at
 - Packet Sniffing
 
 ## References
-OWASP – https://owasp.org
-CISA – https://www.cisa.gov
-NIST – https://csrc.nist.gov
-Cloudflare – https://www.cloudflare.com/learning
+- OWASP – https://owasp.org
+- CISA – https://www.cisa.gov
+- NIST – https://csrc.nist.gov
+- Cloudflare – https://www.cloudflare.com/learning
