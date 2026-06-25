@@ -6,7 +6,7 @@
 ### Objective
 To research and document common network security threats, explaining how each attack works, its real-world impact, and the mitigation strategies used to defend against them.
 
-### Threats Covered
+## Threats Covered
 - Denial of Service (DoS) and DDoS Attacks
 - Man-in-the-Middle (MITM) Attacks
 - IP Spoofing
