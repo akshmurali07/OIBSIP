@@ -87,9 +87,9 @@ In today's digitally connected world, network security has become a critical con
 ## 7. Conclusion
 - Network security threats are constantly evolving and pose significant risks to individuals, businesses, and critical infrastructure. Understanding how attacks such as DoS/DDoS, Man-in-the-Middle, IP Spoofing, DNS Spoofing, and Packet Sniffing work is the first step towards building effective defenses. Organizations must adopt a layered security approach combining encryption, monitoring, access controls, and user education to stay protected against these threats.
 
-### 8. References
-•	Stallings, W. (2017). Network Security Essentials: Applications and Standards. Pearson.
-•	OWASP Foundation. (2023). Network Security Threats Overview. https://owasp.org
-•	CISA. (2023). Understanding Denial-of-Service Attacks. https://www.cisa.gov
-•	Cloudflare. (2023). What is a DDoS Attack? https://www.cloudflare.com/learning/ddos
-•	NIST. (2023). Guidelines on Firewalls and Firewall Policy. https://csrc.nist.gov
+## 8. References
+-	Stallings, W. (2017). Network Security Essentials: Applications and Standards. Pearson.
+-	OWASP Foundation. (2023). Network Security Threats Overview. https://owasp.org
+-	CISA. (2023). Understanding Denial-of-Service Attacks. https://www.cisa.gov
+-	Cloudflare. (2023). What is a DDoS Attack? https://www.cloudflare.com/learning/ddos
+-	NIST. (2023). Guidelines on Firewalls and Firewall Policy. https://csrc.nist.gov
