@@ -41,8 +41,8 @@ For each threat, the report explains:
 ## Repository Structure
 
 ```text
-├── Research_Report_Common_Network_Security_Threats.pdf
-└── README.md
+- Research_Report_Common_Network_Security_Threats.pdf
+- README.md
 ```
 
 ---
