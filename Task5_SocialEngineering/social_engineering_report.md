@@ -1,7 +1,7 @@
 # Research Report on Social Engineering Attacks
 
 - **Prepared by:** Akshara Murali
-- **Internship:** AICTE Oasis Infobyte – Security Analyst Internship
+- **Internship:** AICTE Oasis Infobyte - Security Analyst Internship
 - **Task:** Task 5 - Research Report on Social Engineering Attacks
 
 ---
