@@ -1,7 +1,7 @@
 # Task 6 - Research Report on the Importance of Patch Management
 
-**Intern:** Akshara Murali
-**Program:** AICTE Oasis Infobyte - Security Analyst Internship
+- **Intern:** Akshara Murali
+- **Program:** AICTE Oasis Infobyte - Security Analyst Internship
 
 ---
 
