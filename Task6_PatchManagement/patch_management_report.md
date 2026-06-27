@@ -1,8 +1,8 @@
 # Research Report on the Importance of Patch Management
 
 - **Prepared by:** Akshara Murali
-- **Internship:** AICTE Oasis Infobyte – Security Analyst Internship
-- **Task:** Task 6 – Research Report on the Importance of Patch Management
+- **Internship:** AICTE Oasis Infobyte - Security Analyst Internship
+- **Task:** Task 6 - Research Report on the Importance of Patch Management
 
 ---
 
